@@ -1,6 +1,6 @@
 ## Introduction
 
-This project is the backend of Gideon IVA, a real-time videon analysis application (abnormal vs normal events), leveraging the embedded power of NVIDIA's Jetson Nano platform. This application will be hosted on the NVIDIA Jetson Nano, which also will act as application server.
+This project is the backend of Gideon IVA, part of our FYP; a real-time video analysis application (abnormal vs normal events), leveraging the embedded power of NVIDIA's Jetson Nano platform. This application will be hosted on the NVIDIA Jetson Nano, which also will act as application server.
 
 ## Setup
 
